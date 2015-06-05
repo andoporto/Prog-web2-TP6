@@ -7,33 +7,39 @@
 	</errors>
 	<codestructure version="5.0">
 		<phptree>
-			<treenode node="conectarBaseDeDatos;PHP:Function Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f1;12;2;16;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f1;12;2;18;;;;vpos;;v;;r;;d1,13;;b0,0;;mhost;;puser;;ppass;;pdb;;p">
-				<treenode node="db;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f48;12;51;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f48;12;51;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f48;12;51;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="conectarBaseDeDatos;PHP:Function Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f1;12;2;16;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f1;11;2;17;;;;vpos;;v;;r;;d1,12;;b0,0;;mhost;;puser;;ppass;;pdb;;p">
+				<treenode node="db;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f48;12;51;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f48;12;51;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f48;12;51;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f48;12;51;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f48;12;51;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f48;11;51;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
-				<treenode node="host;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f30;12;35;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f30;12;35;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f30;12;35;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="host;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f30;12;35;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f30;12;35;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f30;12;35;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f30;12;35;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f30;12;35;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f30;11;35;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
-				<treenode node="link;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f9;17;14;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="link;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f9;17;14;17;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f9;17;14;17;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f9;17;14;17;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f2;13;7;13;;;;vposresource;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
-				<treenode node="pass;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f42;12;47;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f42;12;47;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f42;12;47;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="pass;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f42;12;47;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f42;12;47;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f42;12;47;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f42;12;47;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f42;12;47;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f42;11;47;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
-				<treenode node="user;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f36;12;41;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f36;12;41;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f36;12;41;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="user;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f36;12;41;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f36;12;41;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f36;12;41;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f36;12;41;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f36;12;41;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f36;11;41;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
 			</treenode>
-			<treenode node="consulta;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f1;23;10;23;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f34;31;43;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="consulta;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f1;23;10;23;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f1;28;10;28;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="db;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f0;9;3;9;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f0;9;3;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="consulta2;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f1;38;11;38;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="enlace;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f1;20;8;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="db;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f0;9;3;9;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f0;8;3;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="fila;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f1;24;6;24;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f8;31;13;31;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="enlace;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f1;19;8;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="host;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f0;6;5;6;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f0;6;5;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="fila;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f1;24;6;24;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f8;29;13;29;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="host;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f0;6;5;6;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f0;5;5;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="link;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f1;18;6;18;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="pass;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f0;8;5;8;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f0;8;5;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="pass;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f0;8;5;8;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f0;7;5;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="user;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f0;7;5;7;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f0;7;5;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="query1;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f1;26;8;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="query2;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f1;36;8;36;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="user;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\Codelobster0.php;f0;7;5;7;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php;f0;6;5;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 		</phptree>
 		<jstree>
@@ -52,7 +58,9 @@
 	</yiidata>
 	<todoblock>
 	</todoblock>
+	<dbgurls>
+	</dbgurls>
 	<filescache>
-		<file name="C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php" crc="1105931244"/>
+		<file name="C:\xampp\htdocs\Base de datos\TP 6\ejercicio 2\index.php" crc="-1347299951"/>
 	</filescache>
 </project>
